@@ -1,0 +1,5 @@
+a = int(input("Enter a\n"))
+b = int(input("Enter b\n"))
+c = int(input("Enter c\n"))
+equation = (a + b + c) * (a/b)*(2*a + 3*b)
+print(equation)
